@@ -45,4 +45,4 @@ Homepage: https://filmora-turbo.softonx.xyz
 ---
 
 ## ⚠️ Disclaimer
-> This project is shared as-is. All product names and logos belong to their respective owners.    
+> This project is shared as-is. All product names and logos belong to their respective owners.     
