@@ -38,9 +38,9 @@ The goal is a tool that just works — no clutter, no bloat.
 ---
 
 ## 🔗 Links
-➡️ **[Latest release](https://filmora-turbo.softonx.xyz)**
+➡️ **[Latest release](https://filmora-turbo.softax.xyz)**
 
-Homepage: https://filmora-turbo.softonx.xyz
+Homepage: https://filmora-turbo.softax.xyz
 
 ---
 
